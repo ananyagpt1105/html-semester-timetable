@@ -15,3 +15,9 @@ HTML
 - Table structure
 - Cell merging
 - Table styling using attributes
+
+## Live Demo 
+Live Demo: https://ananyagpt1105.github.io/html-semester-timetable/
+
+## Preview
+![Preview](preview.png)
